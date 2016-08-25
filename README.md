@@ -2,7 +2,11 @@
 
 Guiding principles to design simpler, clearer, faster government services.
 
-## 1. Start with needs: user needs, not government needs.
+These principles inform how we design all government services. Like the [U.K. Government Design Principles](https://www.gov.uk/design-principles), we’ll be adding examples to show you how we have been using them.
+
+1. Start with needs: user needs, not government needs
+
+## 1. Start with needs: user needs, not government needs
 
 Service design starts with identifying user needs. If you don’t know what the user needs are, you won’t build the right thing. Do research, analyse data and talk to users. Don’t make assumptions. Have empathy for users and remember that what they ask for isn’t always what they need.
 
