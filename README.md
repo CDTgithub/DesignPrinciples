@@ -1,2 +1,4 @@
-# DesignPrinciples
-Guiding principles to design simpler, clearer, faster government services.
+# Design Principles
+
+## Guiding principles to design simpler, clearer, faster government services.
+
